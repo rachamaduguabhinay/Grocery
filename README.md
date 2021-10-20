@@ -24,7 +24,10 @@ Converst csv to nested JSON
 1.python
 
 # Expectation and output
- Data csv provided with different level of parent and child grocery data and each level will mandatoryly contain Name,ID and URl, then application will convert the CSV data into nested json structure.
+ Data csv provided with different level of parent and child grocery data and each level will mandatoryly contain Name,ID and URl, then application will convert the CSV data into nested json structure. URL is also configurable.
+ 
+To Update the URL use --url optional argument and provide the part which is to be update if groceries.abc.com is to be replace with groceries.xyz.com
+provide generator cvs_filepath json_filepath --url groceries.xyz.com
  
 
 # Installation
