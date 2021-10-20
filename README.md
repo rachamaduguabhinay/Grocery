@@ -21,10 +21,10 @@ Converst csv to nested JSON
 2.git bash
 
 # Language
-1.pyhton
+1.python
 
 # Expectation and output
- Data csv provided with different level of parent and child grocery data and eachg level will mandatoryly contain Name,ID and URl, then application will convert the CSV data into nested json structure.
+ Data csv provided with different level of parent and child grocery data and each level will mandatoryly contain Name,ID and URl, then application will convert the CSV data into nested json structure.
  
 
 # Installation
