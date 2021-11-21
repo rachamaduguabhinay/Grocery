@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='grocery',
-    version='0.0.1',
+    version='0.0.2',
     author_email='abhinay.rachamadugu@gmail.com',
     license='Test',
     description='Convert CSV to automatically nested JSON.',
